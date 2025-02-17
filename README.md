@@ -16,7 +16,7 @@ This report covers:
 ✅ Mitigation Strategies & Prevention  
 
 ## 📥 Download Report  
-📂 You can download the Cyber Security Project Report (DOCX) from [here](paste-your-file-link-here).  
+📂 You can download the Cyber Security Project Report (DOCX) from [here](https://github.com/Zainab88804/Broken-Authentication/raw/refs/heads/main/CYBER%20SECURITY%20PROJECT%20REPORT.docx).  
 
 ## 📢 About  
 This project explores Broken Authentication, one of the most common security vulnerabilities that attackers exploit to gain unauthorized access. It includes real-world attacks, case studies, and mitigation strategies to strengthen security.  
